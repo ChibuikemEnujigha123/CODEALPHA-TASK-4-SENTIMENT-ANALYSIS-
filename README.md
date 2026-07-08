@@ -40,6 +40,7 @@ DATASET CHARACTERISTICS:
 
  # Section C: Methodology
 INSTALLATION AND SETUP:
+
 bash
 
 pip install openpyxl textblob
@@ -63,11 +64,13 @@ o	Remove unnecessary noise and special characters
 3.Sentiment Classification :
 
 4.	Results Storage :
+5.	
 o	Add sentiment column to dataframe
 
 o	Export results to CSV file: Cruz_Tech_Sentiment_Analysis_Results.csv
 
 # Section D :  Summary Statistics
+
 SENTIMENT ANALYSIS
 
 Sentiment	Count	Percentage
