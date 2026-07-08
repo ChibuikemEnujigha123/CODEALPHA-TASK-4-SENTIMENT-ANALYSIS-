@@ -41,7 +41,9 @@ DATASET CHARACTERISTICS:
  # Section C: Methodology
 INSTALLATION AND SETUP:
 bash
+
 pip install openpyxl textblob
+
 pip install vaderSentiment  
 
 DATA PROCESSING STEPS:
