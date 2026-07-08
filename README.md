@@ -51,7 +51,7 @@ o	Import CSV file using Pandas
 
 o	Preview data structure
 
-2. Text Preprocessing
+2. Text Preprocessing 
    
 o	Utilize pre-cleaned text column (Cleaned_Text)
 
