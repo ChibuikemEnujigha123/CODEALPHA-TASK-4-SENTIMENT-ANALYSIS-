@@ -6,6 +6,9 @@ This project performs sentiment analysis on news articles using Natural Language
 Key Objectives:
 
 •	Classification of article text into different categories
+
 •	Analyze sentiment patterns involved in the analysis.
+
 •	Generate Insights for marketing and advertising department.
+
 •	Discover event-driven sentiment results
