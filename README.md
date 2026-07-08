@@ -37,4 +37,25 @@ DATASET CHARACTERISTICS:
 
 •Articles mostly about sports 
 
+ # Section C: Methodology
+INSTALLATION AND SETUP:
+bash
+pip install openpyxl textblob
+pip install vaderSentiment  
+
+DATA PROCESSING STEPS:
+
+1.	Data Loading
+   
+o	Import CSV file using Pandas
+
+o	Preview data structure
+
+2. Text Preprocessing
+   
+o	Utilize pre-cleaned text column (Cleaned_Text)
+
+o	Remove unnecessary noise and special characters
+
+3.Sentiment Classification
 
