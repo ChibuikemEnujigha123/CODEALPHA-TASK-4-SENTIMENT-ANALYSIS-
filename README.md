@@ -39,6 +39,7 @@ DATASET CHARACTERISTICS:
 •Articles mostly about sports 
 
  # Section C: Methodology
+ 
 INSTALLATION AND SETUP:
 
 bash
@@ -89,19 +90,33 @@ KEY FINDINGS
 
 •	Primary Source: Vanguard Nigeria
 
-•	Predominant Sentiment: Generally positve opinion towards the game performance.
+•	Predominant Sentiment: Majorly positive performance of the team 
 
-CODEALPHA_TASK-4_SENTIMENT_ANALYSIS/
+ # Section E: Technologies Used 
+
+LIBRARY/PACKAGE PURPOSE
+Pandas-	Data manipulation and analysis
+
+TextBlob-	Sentiment analysis and polarity scoring
+
+VaderSentiment-	Alternative sentiment analysis approach
+
+OpenPyXL-	Excel file support
+
+Jupyter Notebook-	Interactive development environment
+
+
+CODEALPHA_TASK-4_:SENTIMENT_ANALYSIS
 
 ├── Web_Scrapping_Task.csv              # Input dataset
 
-├── Cruz_Tech_Sentiment_Analysis_Results.csv  # Output with sentiments
+├── Cruz_Tech_Sentiment_Analysis_Results.csv  # Result with sentiments included 
 
 ├── CODEALPHA_TASK-4_SENTIMENT_ANALYSIS.ipynb  # Main Jupyter Notebook
 
-├── README.md                           # Project documentation
+├── README.md                           # Documentation of the python project
 
-└── requirements.txt                    # Python dependencies
+└── requirements.txt                    # Python dependencies 
 
 
 
