@@ -1,4 +1,5 @@
 # CODEALPHA-TASK-4-SENTIMENT-ANALYSIS-
+
 # Section A: Project Overview
 
 This project performs sentiment analysis on news articles using Natural Language Processing (NLP) techniques. The analysis classifies text data into into positive,negative and neutral.The aim is to create an analysis that gives a glimpse into the sentiment involved in a project.
@@ -57,5 +58,28 @@ o	Utilize pre-cleaned text column (Cleaned_Text)
 
 o	Remove unnecessary noise and special characters
 
-3.Sentiment Classification
+3.Sentiment Classification :
+
+4.	Results Storage :
+o	Add sentiment column to dataframe
+
+o	Export results to CSV file: Cruz_Tech_Sentiment_Analysis_Results.csv
+
+# Section D :  Summary Statistics
+SENTIMENT ANALYSIS
+Sentiment	Count	Percentage
+Positive	12-	60%
+Negative	3	-15%
+Neutral	5-	25%
+
+KEY FINDINGS
+•	Most Positive Topic: PSG'S goals and offensive moment.
+•	Most Negative Topic: Arsenal's Missed Chances and Defeats.
+•	Primary Source: Vanguard Nigeria
+•	Predominant Sentiment: Generally positve opinion towards the game performance.
+
+
+
+
+
 
