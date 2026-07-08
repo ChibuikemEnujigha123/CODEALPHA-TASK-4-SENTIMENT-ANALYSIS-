@@ -67,15 +67,23 @@ o	Export results to CSV file: Cruz_Tech_Sentiment_Analysis_Results.csv
 
 # Section D :  Summary Statistics
 SENTIMENT ANALYSIS
+
 Sentiment	Count	Percentage
+
 Positive	12-	60%
+
 Negative	3	-15%
+
 Neutral	5-	25%
 
 KEY FINDINGS
+
 •	Most Positive Topic: PSG'S goals and offensive moment.
+
 •	Most Negative Topic: Arsenal's Missed Chances and Defeats.
+
 •	Primary Source: Vanguard Nigeria
+
 •	Predominant Sentiment: Generally positve opinion towards the game performance.
 
 
