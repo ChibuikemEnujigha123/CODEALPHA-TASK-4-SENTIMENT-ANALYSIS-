@@ -17,7 +17,8 @@ KEY OBJECTIVES
 
 The dataset (Web_Scrapping_Task.csv) consists of snippets from newspaper articles with the following features
 
-PRIMARY COLUMNS 
+PRIMARY COLUMNS :
+
 •	Text: Content from the actual articles
 
 •	Cleaned_Text:preprocessed text ready for analysis 
@@ -29,6 +30,7 @@ PRIMARY COLUMNS
 •	Sentiment: This is the product of the sentiment analysis involving textblob.
 
 DATASET CHARACTERISTICS:
+
 •	20+ news articles analysed
 
 • Articles mostly gotten from the source Vanguard Nigeria
