@@ -64,7 +64,7 @@ o	Remove unnecessary noise and special characters
 3.Sentiment Classification :
 
 4.	Results Storage :
-5.	
+   
 o	Add sentiment column to dataframe
 
 o	Export results to CSV file: Cruz_Tech_Sentiment_Analysis_Results.csv
@@ -91,7 +91,17 @@ KEY FINDINGS
 
 •	Predominant Sentiment: Generally positve opinion towards the game performance.
 
+CODEALPHA_TASK-4_SENTIMENT_ANALYSIS/
 
+├── Web_Scrapping_Task.csv              # Input dataset
+
+├── Cruz_Tech_Sentiment_Analysis_Results.csv  # Output with sentiments
+
+├── CODEALPHA_TASK-4_SENTIMENT_ANALYSIS.ipynb  # Main Jupyter Notebook
+
+├── README.md                           # Project documentation
+
+└── requirements.txt                    # Python dependencies
 
 
 
